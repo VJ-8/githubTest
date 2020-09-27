@@ -37,6 +37,5 @@ def RPNCalculator(commands):
             stack.append(b)
         else:
             stack.append(int(item))
-            print("test change in github")
     return stack
 
